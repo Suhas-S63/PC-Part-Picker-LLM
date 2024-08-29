@@ -6,10 +6,9 @@ Discover the ultimate assistant for building your dream PC! Whether you're a nov
 
 ## 🚀 Features
 - **Discover:** Find the best PC components tailored to your needs.
-- **Compare:** Get detailed reviews and side-by-side comparisons of parts.
 - **Ask:** Pose any question about PC parts, and receive detailed, helpful answers.
-- **Interactive:** Engage with the bot through both text and voice inputs.
-- **Advanced Retrieval:** Powered by cutting-edge retrieval-based QA systems for accurate responses.
+- **Interactive:** Engage with the bot through text inputs.
+- **Advanced Retrieval:** Powered by Retrival Augemented Generation (RAG) system for accurate responses.
 
 ## 🛠️ How It Works
 1. **Load the PDF:** The bot ingests a PDF document containing extensive information about PC hardware.
