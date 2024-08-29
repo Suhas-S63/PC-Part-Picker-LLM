@@ -1,0 +1,30 @@
+/* style.css */
+body {
+    background-image: url('C:/Users/suhas/PycharmProjects/PC_Part_Picker_LLM/Fut_PC_AI.jpeg');
+    background-size: cover;
+    background-position: center;
+    color: #ffffff;
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+#app {
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 20px;
+    border-radius: 10px;
+}
+
+h1, h2, h3 {
+    color: #ffcc00;
+}
+
+#chainlit-chat {
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+#input-bar {
+    border-radius: 20px;
+    padding: 10px;
+}
